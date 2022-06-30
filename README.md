@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Wiz Ofuasia
-- 👀 Sharing, Learning and Collaborating with others.
+- 👀 Sharing, Learning and Collaborating.
 - 🌱 Data Science and Business Analytics
 - 📫 wiztones@gmail.com
