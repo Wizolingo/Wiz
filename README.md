@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wiz Ofuasia
+- 👋 Hi, I’m Isioma Wiz Ofuasia
 - 👀 Sharing, Learning and Collaborating.
 - 🌱 Data Science and Business Analytics
 - 📫 wiztones@gmail.com
