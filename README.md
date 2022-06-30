@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Wizolingo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Wizolingo/Wizolingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Wiz Ofuasia
+- 👀 Sharing, Learning and Collaborating with others.
+- 🌱 Data Science and Business Analytics
+- 📫 wiztones@gmail.com
